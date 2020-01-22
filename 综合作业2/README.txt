@@ -1,0 +1,5 @@
+压缩包中包含了五个.m文件
+fingerprint_process.m、fingerprint_process2.m分别是两个指纹处理的主函数
+fingerprint_trim.m是修剪算法
+detail_point_detect.m是细节点检测算法，remove_false_point是去除伪细节点的算法
+此外，最后的结果和原图像位于data.zip的压缩包中
