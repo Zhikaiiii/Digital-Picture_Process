@@ -1,0 +1,8 @@
+本次压缩包包含了GUI文件Segmentation.m和Segmentation.fig，以及自己编写的SLIC_superpixels.m、和main.m方便调试时输出迭代过程
+在结果图中，以第一张图为例，matlabSLIC1.jpg表示了matlab的超像素分割结果；mySLIC1before.jpg表示了改进前的超像素分割结果
+mySLIC1final.jpg表示了改进后的超像素分割结果，mySLIC1gabor.jpg表示了加入gabor滤波器的结果。result1.jpg表示最后的抠图结果。后两张图类似
+mySLIC1num10.jpg和mySLIC1num100.jpg表示像素个数为10和100的结果，
+iteration12.jpg,iteration14.jpg和iteration18.jpg表示迭代次数为2、4、8的结果
+result1.jpg则表示最终抠图结果
+后两张图类似。
+大部分图都已经展示在报告中，故不再单独输出发布文件
